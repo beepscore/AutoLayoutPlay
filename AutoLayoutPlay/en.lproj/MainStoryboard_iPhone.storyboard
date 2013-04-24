@@ -23,8 +23,8 @@
                         <constraints>
                             <constraint firstItem="t41-Sq-pxy" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="B9H-qr-gNc"/>
                             <constraint firstItem="t41-Sq-pxy" firstAttribute="bottom" secondItem="3" secondAttribute="bottom" type="default" id="UXZ-xu-4DZ"/>
+                            <constraint firstItem="t41-Sq-pxy" firstAttribute="top" secondItem="3" secondAttribute="top" constant="217" id="pwh-jP-7Za"/>
                             <constraint firstItem="t41-Sq-pxy" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="wUr-9y-F27"/>
-                            <constraint firstItem="t41-Sq-pxy" firstAttribute="top" secondItem="3" secondAttribute="top" type="default" id="zS0-lZ-9Nu"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -36,7 +36,7 @@
             <objects>
                 <viewController id="XUQ-Po-7o7" sceneMemberID="viewController">
                     <view key="view" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="Lig-Qs-Xmi">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="548"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="331"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
