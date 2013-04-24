@@ -29,14 +29,14 @@
                                 </state>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="t41-Sq-pxy" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="2" id="8HE-Sh-2rp"/>
+                            <constraint firstItem="t41-Sq-pxy" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="9IT-a2-wIc"/>
                             <constraint firstAttribute="trailing" secondItem="vbY-nx-gX0" secondAttribute="trailing" constant="20" symbolic="YES" type="default" id="FUW-KH-VVe"/>
                             <constraint firstItem="vbY-nx-gX0" firstAttribute="top" secondItem="3" secondAttribute="top" constant="118" id="IVb-ge-U0r"/>
                             <constraint firstAttribute="bottom" secondItem="t41-Sq-pxy" secondAttribute="bottom" constant="368" id="MbA-aE-VFp"/>
                             <constraint firstItem="t41-Sq-pxy" firstAttribute="top" secondItem="3" secondAttribute="top" constant="100" id="XZe-dD-Rga"/>
-                            <constraint firstAttribute="trailing" secondItem="t41-Sq-pxy" secondAttribute="trailing" constant="-2" id="fHz-al-SM5"/>
+                            <constraint firstItem="t41-Sq-pxy" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="hcj-Zc-QkZ"/>
                         </constraints>
                     </view>
                 </viewController>
